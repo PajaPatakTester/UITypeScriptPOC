@@ -1,0 +1,11 @@
+
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "types": [
+        "puppeteer",
+        "jest-environment-puppeteer",
+        "expect-puppeteer"
+      ],
+    }
+}
